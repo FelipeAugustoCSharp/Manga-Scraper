@@ -37,11 +37,6 @@ ou
 npx ts-node index.ts
 ```
 
-> Certifique-se de alterar o link do capítulo dentro do `initConnection()` com a URL que deseja baixar:
-```ts
-initConnection("https://www.sussytoons.wtf/capitulo/248305");
-```
-
 ---
 
 ## 📁 Organização das Imagens
